@@ -1,2 +1,5 @@
 .idea
 .ipynb_checkpoints
+.vscode
+env4ml/**
+nltk_data/**
