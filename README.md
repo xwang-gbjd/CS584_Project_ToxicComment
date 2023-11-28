@@ -13,7 +13,7 @@ The dataset can be found [here](https://www.kaggle.com/datasets/julian3833/jigsa
 ### Environment
 We recommend to use conda to create the environment.
 ```
-conda create -n toxic python=3.11
+conda create -n toxic python=3.10
 conda activate toxic
 ```
 Then you can use pip to install the packages.
